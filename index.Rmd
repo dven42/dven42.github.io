@@ -1,0 +1,8 @@
+---
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+<img src="images/mugshot.jpg" style="width:45%; margin-right: 20px" align="left">
+
+I will tell you a little bit about myself soon. 
